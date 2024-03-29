@@ -24,21 +24,35 @@
 
 - Which deparmant gives the highest daily rate?
 
-![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/2331de07-754a-4d42-8aad-8c17a09b4331)
-
-![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/ab304bcb-6c77-4899-9314-393f93b06e2b)
+   ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/2331de07-754a-4d42-8aad-8c17a09b4331)
+  
+   ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/ab304bcb-6c77-4899-9314-393f93b06e2b)
 
 - Which JobRole gives the highest daily rate?
 
-![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/ff92c705-5f4f-4722-876d-fcf5c0a0ebb3)
-
-![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/0e012537-dde2-467d-83a0-edc7ca5d8a4e)
+   ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/ff92c705-5f4f-4722-876d-fcf5c0a0ebb3)
+  
+   ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/0e012537-dde2-467d-83a0-edc7ca5d8a4e)
 
 - Which Deparment like to hire nonexperience person?
 
-![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/5598de73-3900-4c01-9a2d-a700be0c7040)
+   ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/5598de73-3900-4c01-9a2d-a700be0c7040)
+  
+   ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/a44e0cf3-92dc-42c8-807a-7a72901244ea)
 
-![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/a44e0cf3-92dc-42c8-807a-7a72901244ea)
+- Which job role like to hire nonexperience person
+
+   ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/f6290e91-b773-4b60-9892-47b704dac6ee)
+  
+   ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/cb146c86-c3e2-4a44-a06d-44f2b0266de9)
+
+- Which Job pays the best on each job level?
+![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/61c01053-dcd8-4f56-b4e0-eb23a349150e)
+![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/b5a7579a-ebce-4442-a47e-43c445829323)
+
+- What education field are more likely to be hired by these jobrole?
+![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/2099eac3-7ab8-4084-aecc-25cb2e144862)
+![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/f4b41100-c2b5-42f8-b6ca-1cafa4ec3696)
 
 
 
