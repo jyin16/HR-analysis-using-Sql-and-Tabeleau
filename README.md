@@ -54,10 +54,10 @@
 ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/2099eac3-7ab8-4084-aecc-25cb2e144862)
 ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/f4b41100-c2b5-42f8-b6ca-1cafa4ec3696)
 
-- How are departments' enviromental satifaction scores?
+- How are departments' environmental satisfaction scores?
 
-  **There isnt big difference accross all Departments, but the average EnvironmentSatisfaction is pretty low in all Departments**
-  **!!!! EnvironmentSatisfaction improvment needs to be addressed**
+  **There isn't big difference across all Departments, but the average EnvironmentSatisfaction is pretty low in all Departments**
+  **!!!! EnvironmentSatisfaction improvement needs to be addressed**
    
   ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/9337f529-d1e2-4d15-b9a8-79c928170421)
 
@@ -65,8 +65,8 @@
 
 - How does income  affect attrition rate for employees in the 18-25 and 25-35 age groups?
 
-  **18-25: People who left has 24% less income than who stayed**
-  **36-35: People who left has 21.5% less income than who stayed**
+  **18-25: People who left have 24% less income than those who stayed**
+  **36-35: People who left have 21.5% less income than those who stayed**
 
   ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/8a300837-6223-41c7-b8b5-dd0573621f87)
 
@@ -75,6 +75,13 @@
 
 ## Data Visualization and analysis using Tableau
 
+### Tableau Dashboard: [HR analytics](https://public.tableau.com/shared/9JZ7CDMZG?:display_count=n&:origin=viz_share_link)
+
+[![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/25b216c2-45ea-4e01-9f62-c7090174808a)](https://public.tableau.com/shared/BF6B7WY34?:display_count=n&:origin=viz_share_link)
+
+[![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/3630c902-e39f-40e8-8989-fa69340d3775)](https://public.tableau.com/shared/BF6B7WY34?:display_count=n&:origin=viz_share_link)
+
+### [Jacob Yin](https://www.linkedin.com/in/haoran-yin-1946a6292/)
 
 
 
