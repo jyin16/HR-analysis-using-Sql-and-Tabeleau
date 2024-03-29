@@ -54,5 +54,29 @@
 ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/2099eac3-7ab8-4084-aecc-25cb2e144862)
 ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/f4b41100-c2b5-42f8-b6ca-1cafa4ec3696)
 
+- How are departments' enviromental satifaction scores?
+
+  **There isnt big difference accross all Departments, but the average EnvironmentSatisfaction is pretty low in all Departments**
+  **!!!! EnvironmentSatisfaction improvment needs to be addressed**
+   
+  ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/9337f529-d1e2-4d15-b9a8-79c928170421)
+
+  ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/48ab6611-d8b0-468c-901c-37fecbca6e57)
+
+- How does income  affect attrition rate for employees in the 18-25 and 25-35 age groups?
+
+  **18-25: People who left has 24% less income than who stayed**
+  **36-35: People who left has 21.5% less income than who stayed**
+
+  ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/8a300837-6223-41c7-b8b5-dd0573621f87)
+
+  ![image](https://github.com/jyin16/HR-analysis-using-Sql-and-Tabeleau/assets/160368135/41f72c4b-0ec9-4d75-9afc-f8e087f1140e)
+
+
+## Data Visualization and analysis using Tableau
+
+
+
+
 
 
