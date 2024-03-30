@@ -13,7 +13,7 @@
 - Navicat
 - Tableau <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="30" height="30"/>
 
-## Project problem statemen
+## Project problem statement
 - Which department gives the best benefits to employee?
 - Which jobrole pays the best?
 - What criteria  makes a person more likely to be hired
